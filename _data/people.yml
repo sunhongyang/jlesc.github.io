@@ -1198,8 +1198,8 @@ sun_h:
   sur_name: Sun
   given_name: Hongyang
   affiliation: inria
-  position:
-  topics:
+  position: postdoc
+  topics: resilience
   email: hongyang.sun@ens-lyon.fr
   homepage: http://perso.ens-lyon.fr/hongyang.sun/
 
